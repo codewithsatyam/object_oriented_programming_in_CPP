@@ -1,3 +1,5 @@
+//Using a member function to overload a unary operator.
+
 #include <iostream>
 using namespace std;
 
@@ -28,7 +30,7 @@ main()
 
     A a1(7);
     a1.showdata();
-    a1.operator-();
+    a1.operator-();  //We can also write it as -a1;
     a1.showdata();
 }
 
