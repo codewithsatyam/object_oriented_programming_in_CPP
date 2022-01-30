@@ -55,6 +55,15 @@ Print these patterns using loops:
        ***
         **
          *
+         
+         
+   
+      *******
+      * * * *
+      *  *  *
+      * * * *
+      **   **
+      *******      
 
 
 8.      *
