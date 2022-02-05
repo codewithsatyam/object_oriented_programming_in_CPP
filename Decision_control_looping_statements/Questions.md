@@ -15,8 +15,19 @@
 
 8.WAP to take input from user and then check whether it is no or character. If it is character determine whether it is in uppercase or lowercase.
 
-9.
+9.WAP to pront first n odd numbers in desending order.
 
+10.Input 3 nos A,B,C write a program in to write thier values in an ascending order.
+
+11.WAP to find LCM and GCD of two nos.
+
+12.WAP to HCF to 2nos.
+
+13.WAP to print fibonacci series.
+
+14.WAP to find whether entered no is palindrome or not.
+
+15.
 
 
 
