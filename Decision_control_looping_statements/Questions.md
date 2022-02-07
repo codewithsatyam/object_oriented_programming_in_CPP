@@ -63,17 +63,54 @@
 26.WAP to sum of squares of even nos.
 
 
-27.WAP to sum of squares of even nos.
+27.WAP to print the sum of squares of odd nos.
 
-28.WAP to print the sum of squares of odd nos.
+28.WAP to print whether the given no is Armstrong no or not.
 
-29.WAP to print whether the given no is Armstrong no or not.
+29.WAP to generate calender of a month given the start_day and the no. of days in that month.
 
-30.WAP to generate calender of a month given the start_day and the no. of days in that month.
+30.WAP to print Floyds traingle.
 
-31.WAP to print Floyds traingle.
+31.WAP to accept all nos from 1-100 that are not divisible 2 as well as by 3.
 
-32.
+32.WAP to sum the given sequence following:
+   <ul> 
+  <li>2/9 - 5/13 + 8/17 .....</li>
+ <li> 1 + 1/1! + 1/2! + 1/3! + ...</li>
+  <li> x - x<sup>2</sup>/2! + x<sup>3</sup>/3! - x<sup>4</sup>/4! + x<sup>5</sup>/5! - x<sup>6</sup>/6! </li>
+  <li> x + x<sup>2</sup>/2 + x<sup>3</sup>/3 + ... + x<sup>n</sup>/n </li>
+  <li> 1 + x + x<sup>2</sup> + ... + x<sup>n</sup> </li>
+  </ul>
+  
+33.WAP to do the following:
+  <ol>
+  <li>read an integer X.</li>
+  <li>determine the no of digits n in X.</li>
+  <li>form an digit Y that has the no of digits n at ten's place and the most significant digit of X at one's place.</li>
+  
+  (eg: if X is equal to 2134, then Y should be 42 as there are 4 digits and the most significant no. is 2)
+  </ol>
+  
+  
+34.WAP to generate the following pattern:
+
+      $ * * * $
+      * $   $ *
+      *   $   *
+      * $   $ *
+      $ * * * $ 
+      
+      
+      1
+      2 1 2
+      3 2 1 2 3 
+      
+      
+35.WAP that accepts the current date and the date of birth of the user.Then calculate the age of the user and display it on the screen.Note that the date should be displayed in the format specified as dd/mm/yy.
+
+
+*********************************************************YES WE DID IT******************************************************************
+*************************************************************😎*************************************************************************  
 
 
 
