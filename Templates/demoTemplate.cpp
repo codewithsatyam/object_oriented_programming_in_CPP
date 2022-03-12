@@ -33,7 +33,7 @@ Arithmetic<t>:: Arithmetic(t a,t b) //changes
  
 {
  
-    this->a=a;
+    this->a=a;    //"this" is a pointer which points to the current object of that class.
  
     this->b=b;
  
